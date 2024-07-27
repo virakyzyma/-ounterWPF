@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СounterWPF", "СounterWPF\СounterWPF.csproj", "{4215638D-0A2C-40AE-A89C-8D1D4862EDA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4215638D-0A2C-40AE-A89C-8D1D4862EDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4215638D-0A2C-40AE-A89C-8D1D4862EDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4215638D-0A2C-40AE-A89C-8D1D4862EDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4215638D-0A2C-40AE-A89C-8D1D4862EDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E82FA8A-795C-4A4A-8500-D31540EE691B}
+	EndGlobalSection
+EndGlobal
